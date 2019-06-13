@@ -3,35 +3,35 @@
 		{
 			"settings": {
 				"background": "#16181E",
-				"foreground": "#CCD3E9"
+				"foreground": "#CCD2E2"
 			}
 		},
 		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#a09c81ff"
+				"foreground": "#D1AB8A"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#ffffbfff"
+				"foreground": "#A089CC"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#9f87beff"
+				"foreground": "#A089CC"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#9f87beff"
+				"foreground": "#A089CC"
 			}
 		},
 		{
@@ -41,7 +41,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#9f87beff"
+				"foreground": "#A089CC"
 			}
 		},
 		{
@@ -55,7 +55,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#eba8c0ff"
+				"foreground": "#899ECC"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#eba8c0ff"
+				"foreground": "#D18E8A"
 			}
 		},
 		{
@@ -71,7 +71,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#75a8aeff"
+				"foreground": "#89BFCC"
 			}
 		},
 		{
@@ -79,7 +79,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#96d39eff"
+				"foreground": "#8ACE91"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#96d39eff"
+				"foreground": "#8ACE91"
 			}
 		},
 		{
@@ -95,7 +95,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#96d39eff"
+				"foreground": "#8ACE91"
 			}
 		},
 		{
@@ -103,7 +103,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#e2b995ff"
+				"foreground": "#D1AB8A"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#eba8c0ff"
+				"foreground": "#D18E8A"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#96d39eff"
+				"foreground": "#8ACE91"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#75a8aeff"
+				"foreground": "#89BFCC"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#75a8aeff"
+				"foreground": "#89BFCC"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#75a8aeff"
+				"foreground": "#89BFCC"
 			}
 		},
 		{
@@ -160,17 +160,17 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#eba8c0ff",
+				"background": "#D18E8A",
 				"fontStyle": "",
-				"foreground": "#ffffffff"
+				"foreground": "#E6EBFF"
 			}
 		},
 		{
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#9f87beff",
-				"foreground": "#ffffffff"
+				"background": "#A089CC",
+				"foreground": "#E6EBFF"
 			}
 		}
 	],
@@ -178,11 +178,11 @@
 		"focusBorder": "#16181E",
 		// ------------------------------------------
 		"editor.background": "#16181E",
-		"editorCursor.foreground": "#787E90",
-		"editor.foreground": "#787E90",
-		"editorWhitespace.foreground": "#292D36",
-		"editor.lineHighlightBackground": "#21242B",
-		"editor.selectionBackground": "#21242B",
+		"editorCursor.foreground": "#E6EBFF",
+		"editor.foreground": "#CCD2E2",
+		"editorWhitespace.foreground": "#E6EBFF25",
+		"editor.lineHighlightBackground": "#E6EBFF10",
+		"editor.selectionBackground": "#303240D9",
 		"editorGroupHeader.tabsBackground": "#0F1015",
 		// ------------------------------------------
 		"button.background": "#626D8D",
