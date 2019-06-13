@@ -48,7 +48,8 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"fontStyle": ""
+				"fontStyle": "italic",
+				"foreground": "#89BFCC"
 			}
 		},
 		{
@@ -63,7 +64,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D18E8A"
+				"foreground": "#8ACE91"
 			}
 		},
 		{
@@ -71,15 +72,15 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#89BFCC"
+				"foreground": "#A089CC"
 			}
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class",
+			"scope": "entity.name.type.class",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#8ACE91"
+				"foreground": "#D18E8A"
 			}
 		},
 		{
@@ -95,7 +96,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#8ACE91"
+				"foreground": "#899ECC"
 			}
 		},
 		{
@@ -111,7 +112,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D18E8A"
+				"foreground": "#8ACE91"
 			}
 		},
 		{
@@ -135,7 +136,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#89BFCC"
+				"foreground": "#A089CC"
 			}
 		},
 		{
@@ -153,7 +154,8 @@
 			"name": "Library variable",
 			"scope": "support.other.variable",
 			"settings": {
-				"fontStyle": ""
+				"fontStyle": "italic",
+				"foreground": "#89BFCC"
 			}
 		},
 		{

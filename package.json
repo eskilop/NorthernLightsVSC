@@ -1,6 +1,6 @@
 {
-    "name": "eskyblue",
-    "displayName": "EskyBlue",
+    "name": "northernlights",
+    "displayName": "NorthernLights",
     "description": "A dark blue theme for vscode",
     "version": "1.0.0",
     "engines": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://gitlab.com/Eskilop/EskyBlueVSC"
+        "url": "https://gitlab.com/Eskilop/NorthernLightsVSC"
     },
     "categories": [
         "Themes"
@@ -16,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "EskyBlue",
+                "label": "NorthernLights",
                 "uiTheme": "vs-dark",
-                "path": "./themes/EskyBlue-color-theme.json"
+                "path": "./themes/NorthernLights.json"
             }
         ]
     }
