@@ -1,0 +1,207 @@
+{
+	"tokenColors": [
+		{
+			"settings": {
+				"background": "#16181E",
+				"foreground": "#CCD3E9"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#a09c81ff"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#ffffbfff"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#9f87beff"
+			}
+		},
+		{
+			"name": "Built-in constant",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#9f87beff"
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": [
+				"constant.character",
+				"constant.other"
+			],
+			"settings": {
+				"foreground": "#9f87beff"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#eba8c0ff"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#eba8c0ff"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#75a8aeff"
+			}
+		},
+		{
+			"name": "Class name",
+			"scope": "entity.name.class",
+			"settings": {
+				"fontStyle": "underline",
+				"foreground": "#96d39eff"
+			}
+		},
+		{
+			"name": "Inherited class",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"fontStyle": "italic underline",
+				"foreground": "#96d39eff"
+			}
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#96d39eff"
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#e2b995ff"
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#eba8c0ff"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#96d39eff"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#75a8aeff"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#75a8aeff"
+			}
+		},
+		{
+			"name": "Library class/type",
+			"scope": [
+				"support.type",
+				"support.class"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#75a8aeff"
+			}
+		},
+		{
+			"name": "Library variable",
+			"scope": "support.other.variable",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"background": "#eba8c0ff",
+				"fontStyle": "",
+				"foreground": "#ffffffff"
+			}
+		},
+		{
+			"name": "Invalid deprecated",
+			"scope": "invalid.deprecated",
+			"settings": {
+				"background": "#9f87beff",
+				"foreground": "#ffffffff"
+			}
+		}
+	],
+	"colors": {
+		"focusBorder": "#16181E",
+		// ------------------------------------------
+		"editor.background": "#16181E",
+		"editorCursor.foreground": "#787E90",
+		"editor.foreground": "#787E90",
+		"editorWhitespace.foreground": "#292D36",
+		"editor.lineHighlightBackground": "#21242B",
+		"editor.selectionBackground": "#21242B",
+		"editorGroupHeader.tabsBackground": "#0F1015",
+		// ------------------------------------------
+		"button.background": "#626D8D",
+		"button.foreground": "#E3E6EE",
+		// ------------------------------------------
+		"activityBar.background": "#16181E",
+		"activityBar.foreground": "#787E90",
+		// ------------------------------------------
+		"sideBar.background": "#0F1015",
+		"sideBar.foreground": "#9197A8",
+		// ------------------------------------------
+		"statusBar.background": "#626D8D",
+		"statusBar.foreground": "#E3E6EE",
+		// ------------------------------------------
+		"input.background": "#16181E",
+		// ------------------------------------------
+		"badge.background": "#626D8D",
+		"badge.foreground": "#E3E6EE",
+		"progressBar.background": "#626D8D",
+	},
+	"name": "EskyBlue"
+}

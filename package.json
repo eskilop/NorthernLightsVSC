@@ -1,0 +1,21 @@
+{
+    "name": "eskyblue",
+    "displayName": "EskyBlue",
+    "description": "A dark blue theme for vscode",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "EskyBlue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EskyBlue-color-theme.json"
+            }
+        ]
+    }
+}
