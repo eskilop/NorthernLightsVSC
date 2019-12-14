@@ -178,7 +178,6 @@
 	],
 	"colors": {
 		"focusBorder": "#16181E",
-		// ------------------------------------------
 		"editor.background": "#16181E",
 		"editorCursor.foreground": "#E6EBFF",
 		"editor.foreground": "#CCD2E2",
@@ -186,24 +185,22 @@
 		"editor.lineHighlightBackground": "#E6EBFF10",
 		"editor.selectionBackground": "#303240D9",
 		"editorGroupHeader.tabsBackground": "#0F1015",
-		// ------------------------------------------
 		"button.background": "#626D8D",
 		"button.foreground": "#E3E6EE",
-		// ------------------------------------------
 		"activityBar.background": "#16181E",
 		"activityBar.foreground": "#787E90",
-		// ------------------------------------------
 		"sideBar.background": "#0F1015",
 		"sideBar.foreground": "#9197A8",
-		// ------------------------------------------
 		"statusBar.background": "#626D8D",
 		"statusBar.foreground": "#E3E6EE",
-		// ------------------------------------------
+		"statusBar.debuggingBackground": "#626D8D",
+		"statusBar.debbugingForeground": "#E3E6EE",
+		"statusBar.noFolderBackground": "#626D8D",
+		"statusBar.noFolderForeground": "#E3E6EE",
 		"input.background": "#16181E",
-		// ------------------------------------------
 		"badge.background": "#626D8D",
 		"badge.foreground": "#E3E6EE",
-		"progressBar.background": "#626D8D",
+		"progressBar.background": "#626D8D"
 	},
 	"name": "EskyBlue"
 }
