@@ -236,6 +236,7 @@
 		"progressBar.background": "#626D8D",
 
 		"list.activeSelectionBackground": "#3F4556",
+		"list.inactiveSelectionBackground": "#3F4556A0",
 		"list.hoverBackground": "#1F222B",
 		"list.errorForeground": "#D18E8A",
 		"list.warningForeground": "#D1AB8A",
