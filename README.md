@@ -1,7 +1,10 @@
 # NorthernLights: A dark blue Visual Studio Code theme
-Based on the pale and bright colors of the Northern Lights, this eye-pleasing theme will enhance your coding experience.
+Based on the bright colors of the Northern Lights, this eye-pleasing theme will enhance your coding experience.
 
-* Reduce eye strain with the dark backgrounds
+* Reduce eye strain with the dark background
+* Relaxing blue tint
+* Immediately recognize what's important with the rightful colors
+
 ## Screenshots
 Welcome and Release notes Screens
 
@@ -23,4 +26,4 @@ git clone https://gitlab.com/Eskilop/NorthernLightsVSC ~/.vscode/extensions/nort
 git clone https://gitlab.com/Eskilop/NorthernLightsVSC %USERPROFILE%\.vscode\extensions\northernlights
 ```
 
-To see it listed in your themes, reload your current vscode window
+To see it listed in your themes, reload your current vscode window (open command palette > reload window)
