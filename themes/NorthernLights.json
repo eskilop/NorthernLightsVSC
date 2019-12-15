@@ -223,6 +223,10 @@
 		"statusBar.debbugingForeground": "#E3E6EE",
 		"statusBar.noFolderBackground": "#626D8D",
 		"statusBar.noFolderForeground": "#E3E6EE",
+
+		"titleBar.activeBackground": "#16181E",
+		"titleBar.activeForeground": "#CCD2E2",
+		"titleBar.inactiveBackground": "#111217",
 		
 		"scrollbarSlider.background": "#20222E",
 		"scrollbarSlider.hoverBackground": "#3F4556",
