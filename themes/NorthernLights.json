@@ -178,15 +178,42 @@
 	],
 	"colors": {
 		"focusBorder": "#16181E",
-		"editor.background": "#16181E",
-		"editorCursor.foreground": "#E6EBFF",
-		"editor.foreground": "#CCD2E2",
-		"editorWhitespace.foreground": "#E6EBFF25",
-		"editor.lineHighlightBackground": "#E6EBFF10",
-		"editor.selectionBackground": "#303240D9",
-		"editorGroupHeader.tabsBackground": "#0F1015",
+		"foreground": "#CCD2E2",
+		"selection.background": "#303240D9",
+		"descriptionForeground": "#303240D9",
+		"errorForeground": "#D18E8A",
+		"icon.foreground": "#899ECC",
+
 		"button.background": "#626D8D",
 		"button.foreground": "#E3E6EE",
+		"button.hoverBackground": "#899ECC",
+		"checkbox.background": "#111217",
+		"checkbox.border": "#FFFFFF00",
+
+		"dropdown.background": "#111217",
+
+		"input.background": "#111217",
+		
+		"editor.background": "#16181E",
+		"editor.foreground": "#CCD2E2",
+		"editorLineNumber.foreground": "#CCD2E2A0",
+		"editorLineNumber.activeForeground": "#CCD2E2",
+		"editorCursor.foreground": "#E6EBFF",
+		"editor.selectionBackground": "#303240D9",
+		"editor.findMatchBackground": "#626D8D60",
+		"editor.selectionHighlightBackground": "#D1AB8A60",
+		"editor.findMatchHighlightBackground": "#D1AB8A60",
+		"editorWhitespace.foreground": "#E6EBFF25",
+		"editor.lineHighlightBackground": "#E6EBFF10",
+
+		"editorGroupHeader.tabsBackground": "#0F1015",
+		
+		"tab.activeBackground": "#16181E",
+		"tab.inactiveBackground": "#111217",
+
+		"editorWidget.background": "#16181E",
+		"editorSuggestWidget.background": "#16181E",
+
 		"activityBar.background": "#16181E",
 		"activityBar.foreground": "#787E90",
 		"sideBar.background": "#0F1015",
@@ -197,10 +224,12 @@
 		"statusBar.debbugingForeground": "#E3E6EE",
 		"statusBar.noFolderBackground": "#626D8D",
 		"statusBar.noFolderForeground": "#E3E6EE",
-		"input.background": "#16181E",
 		"badge.background": "#626D8D",
 		"badge.foreground": "#E3E6EE",
-		"progressBar.background": "#626D8D"
+		"progressBar.background": "#626D8D",
+
+		"notifications.background": "#16181E"
+		
 	},
-	"name": "EskyBlue"
+	"name": "NorthernLights"
 }
