@@ -2,13 +2,14 @@
     "name": "northernlights",
     "displayName": "NorthernLights",
     "description": "A dark blue theme for vscode",
+    "publisher": "Eskilop",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.35.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://gitlab.com/Eskilop/NorthernLightsVSC"
+        "url": "https://gitlab.com/Eskilop/NorthernLightsVSC.git"
     },
     "categories": [
         "Themes"
