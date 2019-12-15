@@ -234,6 +234,15 @@
 		"badge.foreground": "#E3E6EE",
 		
 		"progressBar.background": "#626D8D",
+
+		"list.activeSelectionBackground": "#3F4556",
+		"list.hoverBackground": "#1F222B",
+		"list.errorForeground": "#D18E8A",
+		"list.warningForeground": "#D1AB8A",
+		"listFilterWidget.background": "#3F4556",
+		"listFilterWidget.outline": "#8ACE91",
+		"listFilterWidget.noMatchesOutline": "#D18E8A",
+		"list.filterMatchBackground": "#8ACE9130",
 		
 		"activityBar.background": "#111217",
 		"activityBar.foreground": "#787E90",
