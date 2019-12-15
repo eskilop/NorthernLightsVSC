@@ -217,8 +217,6 @@
 		"editorWidget.background": "#16181E",
 		"editorSuggestWidget.background": "#16181E",
 
-		"sideBar.background": "#0F1015",
-		"sideBar.foreground": "#9197A8",
 		"statusBar.background": "#626D8D",
 		"statusBar.foreground": "#E3E6EE",
 		"statusBar.debuggingBackground": "#626D8D",
@@ -247,6 +245,10 @@
 		
 		"activityBar.background": "#111217",
 		"activityBar.foreground": "#787E90",
+
+		"sideBar.background": "#0F1015",
+		"sideBar.foreground": "#9197A8",
+		"sideBarSectionHeader.background": "#1F222BD0",
 
 		"notifications.background": "#16181E"
 		
