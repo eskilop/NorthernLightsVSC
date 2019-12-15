@@ -184,6 +184,9 @@
 		"errorForeground": "#D18E8A",
 		"icon.foreground": "#899ECC",
 
+		"textLink.foreground": "#626D8D",
+		"textLink.activeForeground": "#899ECC",
+
 		"button.background": "#626D8D",
 		"button.foreground": "#E3E6EE",
 		"button.hoverBackground": "#899ECC",
@@ -214,8 +217,6 @@
 		"editorWidget.background": "#16181E",
 		"editorSuggestWidget.background": "#16181E",
 
-		"activityBar.background": "#16181E",
-		"activityBar.foreground": "#787E90",
 		"sideBar.background": "#0F1015",
 		"sideBar.foreground": "#9197A8",
 		"statusBar.background": "#626D8D",
@@ -224,9 +225,18 @@
 		"statusBar.debbugingForeground": "#E3E6EE",
 		"statusBar.noFolderBackground": "#626D8D",
 		"statusBar.noFolderForeground": "#E3E6EE",
+		
+		"scrollbarSlider.background": "#20222E",
+		"scrollbarSlider.hoverBackground": "#3F4556",
+		"scrollbarSlider.activeBackground": "#3F4556",
+		
 		"badge.background": "#626D8D",
 		"badge.foreground": "#E3E6EE",
+		
 		"progressBar.background": "#626D8D",
+		
+		"activityBar.background": "#111217",
+		"activityBar.foreground": "#787E90",
 
 		"notifications.background": "#16181E"
 		
