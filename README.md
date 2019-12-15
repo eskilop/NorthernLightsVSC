@@ -16,7 +16,9 @@ Main Editor & Notifications
 <img src="./screenshots/editor.png" width="45%"/>
 
 ## Installation
-At the moment, you have to do it manually, although, in future it may be in the marketplace.
+You can install this theme through [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Eskilop.northernlights), or:
+
+### Cloning
 * Linux/MacOS
 ```bash
 git clone https://gitlab.com/Eskilop/NorthernLightsVSC ~/.vscode/extensions/northernlights

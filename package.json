@@ -1,26 +1,33 @@
 {
-    "name": "northernlights",
-    "displayName": "NorthernLights",
-    "description": "A dark blue theme for vscode",
-    "publisher": "Eskilop",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.35.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://gitlab.com/Eskilop/NorthernLightsVSC.git"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "NorthernLights",
-                "uiTheme": "vs-dark",
-                "path": "./themes/NorthernLights.json"
-            }
-        ]
-    }
+	"name": "northernlights",
+	"displayName": "NorthernLights",
+	"description": "A dark blue theme for vscode",
+	"author": "Luca D'Amato [@eskilop]",
+	"icon": "logo.png",
+	"publisher": "Eskilop",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/Eskilop/NorthernLightsVSC.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "NorthernLights",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NorthernLights.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "7268a216-81ec-47f4-ba04-32ea9115372a",
+		"publisherDisplayName": "Eskilop",
+		"publisherId": "236bc089-24ca-4fa7-b467-e4580e424221"
+	}
 }
