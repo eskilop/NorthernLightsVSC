@@ -21,11 +21,11 @@ You can install this theme through [VSCode Marketplace](https://marketplace.visu
 ### Cloning
 * Linux/MacOS
 ```bash
-git clone https://gitlab.com/Eskilop/NorthernLightsVSC ~/.vscode/extensions/northernlights
+git clone https://github.com/eskilop/NorthernLightsVSC.git ~/.vscode/extensions/northernlights
 ```
 * Windows
 ```bash
-git clone https://gitlab.com/Eskilop/NorthernLightsVSC %USERPROFILE%\.vscode\extensions\northernlights
+git clone https://github.com/eskilop/NorthernLightsVSC.git %USERPROFILE%\.vscode\extensions\northernlights
 ```
 
 To see it listed in your themes, reload your current vscode window (open command palette > reload window)
