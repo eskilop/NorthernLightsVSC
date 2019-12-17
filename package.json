@@ -5,7 +5,7 @@
 	"author": "Luca D'Amato [@eskilop]",
 	"icon": "logo.png",
 	"publisher": "Eskilop",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.35.0"
 	},

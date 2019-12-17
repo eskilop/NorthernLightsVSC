@@ -29,3 +29,7 @@ git clone https://github.com/eskilop/NorthernLightsVSC.git %USERPROFILE%\.vscode
 ```
 
 To see it listed in your themes, reload your current vscode window (open command palette > reload window)
+
+### Having problems/suggestions? Join The discord server!
+<iframe src="https://discordapp.com/widget?id=592591034350043146&theme=dark" width="75%" height="200" allowtransparency="true" frameborder="0"></iframe>
+

@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Brighten up white color
 - Slight icon redesign
 
+## [1.0.1] - 2019-12-17
+### Changed
+- Color brightness
 
 ## [1.0.0] - 2019-12-15
 ### Added
@@ -18,9 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Brighter colors
-
-### Removed
-- Original colors
 
 ## [0.0.1] - 2019-06-13
 ### Added
